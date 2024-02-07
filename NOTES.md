@@ -1,1 +1,1 @@
-Please add any additional notes here…
+I should have read the readme better! I jumped into setting up the endpoints too early and didn't consider the data structure I would've liked to set up a postgresql database to store the raw data and a seeding script to use for testing the endpoints. I also had to spend a while getting yarn to work on my machine as it is the first time I have used it and I ran into some issues with my OS
